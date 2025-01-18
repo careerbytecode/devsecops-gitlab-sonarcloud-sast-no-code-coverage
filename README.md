@@ -1,0 +1,1 @@
+# devsecops-gitlab-sonarcloud-sast-no-code-coverage
